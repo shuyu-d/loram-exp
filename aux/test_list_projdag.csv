@@ -1,0 +1,3 @@
+gtype,semtype,d,k,rho_ref,rho,ALPHA,MAXITER
+ER,gauss,100,40,1e-3,1e-2,5e0,500  
+

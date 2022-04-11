@@ -1,0 +1,10 @@
+gtype,semtype,d,k,rho_ref,rho,ALPHA,MAXITER
+ER,gauss,100,40,1e-3,1e-2,5e0,500 
+ER,gauss,200,40,1e-3,1e-2,5e0,500  
+ER,gauss,400,40,1e-3,1e-2,5e0,500  
+ER,gauss,600,40,1e-3,1e-2,5e0,500  
+ER,gauss,800,40,1e-3,1e-2,5e0,500  
+ER,gauss,1000,80,1e-3,1e-2,2e0,500  
+ER,gauss,1500,80,1e-3,1e-2,2e0,500  
+ER,gauss,2000,80,1e-3,1e-2,2e0,500  
+
