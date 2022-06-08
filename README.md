@@ -1,6 +1,6 @@
 # LoRAM (Low-rank Additive Model) for the computation of projection from graphs to DAGs
 
- 
+Implementation of LoRAM. Reference: Dong, S. & Sebag, M. (2022). From graphs to DAGs: a low-complexity model and a scalable algorithm. URL https://arxiv.org/abs/2204.04644. 
 
 ## Core functions  
 
